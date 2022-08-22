@@ -96,7 +96,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## Lab 01: Git & GitHub Fundamentals
 
-### Tyler Helmick | August 22, 2022 | CS-271: Object-Oriented Programming
+**Tyler Helmick | August 22, 2022 | CS-271: Object-Oriented Programming**
 
 
 In reading the Basics of GitHub document, I have been able to learn what Git and GitHub effectively do and have gained an understanding how the class 
