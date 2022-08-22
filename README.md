@@ -94,6 +94,27 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 * Create a new markdown file, named README.md, in this repository (the name matters!). Let your instructors know what you learned and what you are still confused about! Experiment with different styles!
 
+## Lab 01: Git & GitHub Fundamentals
+
+### Tyler Helmick | August 22, 2022 | CS-271: Object-Oriented Programming
+
+
+In reading the Basics of GitHub document, I have been able to learn what Git and GitHub effectively do and have gained an understanding how the class 
+will utilize it.
+
+To begin, it would seem that GitHub is used to collect and share our assignments with any peers that we wish to collaborate with and easily submit work. 
+Alongside this, GitHub is able to effectively store previous renditions of code and our previous work, allowing us to easily track our progress and build 
+onto our current code. Commits and pushing allow for changes to be made within the code in an SSH.
+
+Various tools in GitHub allow for us to edit our code within a collected file known as the repository, with branches and forks allowing separate code to be 
+added and edited alongside the main branch of either your own code or someone else's code. When editing code within other's branches, a pull request can be 
+used to gather input from others on your proposed additions and potential changes. In the event that enhancements or errors occur within a project, issues 
+can be created to make a form of task list to correct or edit the code and notify others of the changes made. Any code can then be formatted on GitHub 
+within a "Markdown".
+
+For any confusion that I have, I am mostly concerned with linking GitHub with Visual Studio Code and the NMSU SSH. However, I believe that I will be capable 
+of establishing this connection soon, with some assistance at least. Overall, I look forward to learning how to use GitHub and all it has to offer.
+
 ## 📝 Optional next steps 
 
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
